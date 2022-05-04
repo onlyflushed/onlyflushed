@@ -16,4 +16,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyflushed&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyflushed&theme=tokyonight&layout=compact)](https://github.com/onlyflushed/github-readme-stats)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/onlyflushed/onlyflushed/blob/output/github-contribution-grid-snake.svg)
